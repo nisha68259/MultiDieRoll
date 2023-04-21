@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Multi Die Roll</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="count">
+        <item>4</item>
+        <item>6</item>
+        <item>8</item>
+        <item>10</item>
+        <item>12</item>
+        <item>16</item>
+        <item>20</item>
+        <item>25</item>
+    </string-array>
+</resources>
